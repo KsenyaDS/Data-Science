@@ -63,4 +63,4 @@ pandas, numpy, matplotlib, sklearn, scipy
 
 **Ссылка на ноутбук**
 
-[GitHub](https://github.com/KsenyaDS/Data-Science/blob/master/8.Choosing_a_location_for_the_well/well_location.ipynb)
+[GitHub](https://github.com/KsenyaDS/Data-Science/blob/master/8.%20Choosing_a_location_for_the_well/well_location.ipynb)
